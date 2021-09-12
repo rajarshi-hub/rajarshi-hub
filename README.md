@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rajarshi-hub](https://github.com/rajarshi-hub)
 
-- 💬 Ask me about **MERN stack,Web Development,Ethereum BlockChain,DSA**
+- 💬 Ask me about **MERN stack,Web Development,Ethereum BlockChain,Smart Contracts,DSA,**
 
 - 📫 How to reach me **rajarshitiwari1811@gmail.com**
 
