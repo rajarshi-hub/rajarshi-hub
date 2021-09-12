@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajarshi Tiwari</h1>
 <i><h3 align="center">I’m pre-final year undergraduate at Harcourt Butler Technical University,Kanpur A <b>learning enthusiast</b> trying to improve day by day and <b>consistently</b></h3></i>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajarshi-hub&label=Profile%20views&color=0e75b6&style=flat" alt="rajarshi-hub" /> </p>
+<p align="left" style="font-weight:300"> <img src="https://komarev.com/ghpvc/?username=rajarshi-hub&label=Profile%20views&color=0e75b6&style=flat" alt="rajarshi-hub" /> </p>
 
 - 🌱 I’m currently learning **MERN stack Web development,Ethereum BlockChain**
 
