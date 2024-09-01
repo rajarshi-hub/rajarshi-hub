@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rajarshi Tiwari</h1>
-<i><h4 align="center">I’m pre-final year undergraduate at Harcourt Butler Technical University,Kanpur A <b>learning enthusiast</b> trying to improve day by day and <b>consistently. I love to explore new frameworks and building projects. I am open to work for my relevant field</b></h4></i>
+<i><h4 align="center">Software Developer with expertise in improving system performance and scalability, and boosting user engagement. Skilled in Python, C++, JavaScript, and frameworks such as Django and React. Proficient with SQL (PostgreSQL, MySQL) and NoSQL (Elasticsearch) databases, along with DevOps tools like AWS, Jenkins, and Docker.
+Ranked in the top 2.7% on LeetCode, demonstrating strong problem-solving skills and a commitment to continuous improvement.</b></h4></i>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rajarshi-hub&label=Profile%20views&color=0e75b6&style=flat" alt="rajarshi-hub" /> </p>
 
-- 🌱 I’m currently learning **MERN stack Web development,Ethereum BlockChain**
+- 🌱 I’m currently learning **Currently enhancing my skills in deployment-related concepts and high-level design concepts, focusing on building scalable and efficient systems.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rajarshi-hub](https://github.com/rajarshi-hub)
 
-- 💬 Ask me about **MERN stack,Web Development,Ethereum BlockChain,Smart Contracts,DSA,**
+- 💬 Ask me about **Django, Python, React, PostgreSQL, AWS, Docker, Elasticsearch, C++, SQL, Ethereum Blockchain, Smart Contracts, DSA, JavaScript**
 
 - 📫 How to reach me **rajarshitiwari1811@gmail.com**
 
