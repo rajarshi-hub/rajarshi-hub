@@ -21,7 +21,7 @@ Ranked in the top 2.7% on LeetCode, demonstrating strong problem-solving skills 
   &nbsp;&nbsp;&nbsp;
   <!-- Django -->
   <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="70" height="70"/>
+    <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="django" width="70" height="70"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <!-- React -->
