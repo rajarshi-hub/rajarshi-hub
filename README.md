@@ -17,7 +17,6 @@ Ranked in the top 2.7% on LeetCode, demonstrating strong problem-solving skills 
 <a href="https://linkedin.com/in/rajarshi-tiwari-b30771191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajarshi-tiwari-b30771191" height="30" width="40" /></a>
 <a href="https://instagram.com/rajarshi_tiwari_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajarshi_tiwari_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rajarshitiwari11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rajarshitiwari11" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/rajarshitiwari1811" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="rajarshitiwari1811" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@rajarshitiwari1811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@rajarshitiwari1811" height="30" width="40" /></a>
 </p>
 
