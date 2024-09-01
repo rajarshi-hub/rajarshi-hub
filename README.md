@@ -19,6 +19,11 @@ Ranked in the top 2.7% on LeetCode, demonstrating strong problem-solving skills 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/>
   </a>
   &nbsp;&nbsp;&nbsp;
+  <!-- Django -->
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="70" height="70"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <!-- React -->
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/>
@@ -43,8 +48,17 @@ Ranked in the top 2.7% on LeetCode, demonstrating strong problem-solving skills 
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="70" height="70"/>
   </a>
-</p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajarshi-hub&show_icons=true&locale=en&layout=compact" alt="rajarshi-hub" /></p>
+  &nbsp;&nbsp;&nbsp;
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <!-- Jenkins -->
+  <a href="https://www.jenkins.io/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="70" height="70"/>
+  </a>
+</p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajarshi-hub&show_icons=true&locale=en&layout=compact" alt="rajarshi-hub" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajarshi-hub&show_icons=true&locale=en" alt="rajarshi-hub" /></p>
 
