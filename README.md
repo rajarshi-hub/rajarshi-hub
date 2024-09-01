@@ -63,6 +63,21 @@ Ranked in the top 2.7% on LeetCode, demonstrating strong problem-solving skills 
   <a href="https://www.elastic.co/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="70" height="70"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <!-- MongoDB -->
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <!-- Blockchain -->
+  <a href="https://www.blockchain.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/blockchain/blockchain-icon.svg" alt="blockchain" width="70" height="70"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <!-- Solidity -->
+  <a href="https://soliditylang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="70" height="70"/>
+  </a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajarshi-hub&show_icons=true&locale=en&layout=compact" alt="rajarshi-hub" /></p>
 
