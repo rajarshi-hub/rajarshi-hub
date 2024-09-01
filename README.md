@@ -24,14 +24,9 @@ Ranked in the top 2.7% on LeetCode, demonstrating strong problem-solving skills 
     <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="django" width="120" height="70"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <!-- React -->
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <!-- Node.js -->
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80"/>
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="70" height="70"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <!-- Docker -->
@@ -42,11 +37,6 @@ Ranked in the top 2.7% on LeetCode, demonstrating strong problem-solving skills 
   <!-- AWS -->
   <a href="https://aws.amazon.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="70" height="70"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="70" height="70"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <!-- MySQL -->
@@ -62,11 +52,6 @@ Ranked in the top 2.7% on LeetCode, demonstrating strong problem-solving skills 
   <!-- Elasticsearch -->
   <a href="https://www.elastic.co/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="70" height="70"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <!-- Blockchain -->
@@ -93,18 +78,6 @@ Ranked in the top 2.7% on LeetCode, demonstrating strong problem-solving skills 
   <!-- MongoDB -->
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <!-- Next.js -->
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="70" height="70"/>
   </a>
   &nbsp;&nbsp;&nbsp;
 
