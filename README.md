@@ -21,7 +21,7 @@ Ranked in the top 2.7% on LeetCode, demonstrating strong problem-solving skills 
   &nbsp;&nbsp;&nbsp;
   <!-- Django -->
   <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="django" width="70" height="70"/>
+    <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="django" width="120" height="70"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <!-- React -->
@@ -58,7 +58,13 @@ Ranked in the top 2.7% on LeetCode, demonstrating strong problem-solving skills 
   <a href="https://www.jenkins.io/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="70" height="70"/>
   </a>
-</p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajarshi-hub&show_icons=true&locale=en&layout=compact" alt="rajarshi-hub" /></p>
+  &nbsp;&nbsp;&nbsp;
+  <!-- Elasticsearch -->
+  <a href="https://www.elastic.co/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="70" height="70"/>
+  </a>
+</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajarshi-hub&show_icons=true&locale=en&layout=compact" alt="rajarshi-hub" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajarshi-hub&show_icons=true&locale=en" alt="rajarshi-hub" /></p>
 
