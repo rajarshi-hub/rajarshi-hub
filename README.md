@@ -29,11 +29,6 @@ Ranked in the top 2.7% on LeetCode, demonstrating strong problem-solving skills 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="70" height="70"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="70" height="70"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <!-- AWS -->
   <a href="https://aws.amazon.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="70" height="70"/>
@@ -54,21 +49,21 @@ Ranked in the top 2.7% on LeetCode, demonstrating strong problem-solving skills 
     <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="70" height="70"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <!-- Blockchain -->
-  <a href="https://www.blockchain.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/blockchain/blockchain-icon.svg" alt="blockchain" width="70" height="70"/>
+  <!-- C++ -->
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="70" height="70"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <!-- Docker -->
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="70" height="70"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <!-- Solidity -->
   <a href="https://soliditylang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="70" height="70"/>
   </a>
-<!-- C++ -->
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="70" height="70"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
+  
   <!-- Express.js -->
   <a href="https://expressjs.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="70" height="70"/>
