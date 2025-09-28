@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajarshi Tiwari</h1>
 <i><h4 align="center">Software Developer with expertise in improving system performance and scalability, and boosting user engagement. Skilled in Python, C++, JavaScript, and frameworks such as Django and React. Proficient with SQL (PostgreSQL, MySQL) and NoSQL (Elasticsearch) databases, along with DevOps tools like AWS, Jenkins, and Docker.
-Ranked in the top 2.7% on LeetCode, demonstrating strong problem-solving skills and a commitment to continuous improvement.</b></h4></i>
+Ranked in the top 2.5% on LeetCode, demonstrating strong problem-solving skills and a commitment to continuous improvement.</b></h4></i>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rajarshi-hub&label=Profile%20views&color=0e75b6&style=flat" alt="rajarshi-hub" /> </p>
 
