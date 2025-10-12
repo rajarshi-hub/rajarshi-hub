@@ -26,20 +26,29 @@ Backend Development · Microservices · Event-Driven Architecture · System Desi
 
 <h3 align="center">🛠️ Tech Stack</h3>
 <p align="center">
-<a href="https://go.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="70" /></a>
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70" /></a>
-<a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="70" /></a>
+<a href="https://go.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="70" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="70" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.djangoproject.com/"><img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" width="120" /></a>
-<a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="70" /></a>
-<a href="https://redis.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="70" /></a>
-<a href="https://kafka.apache.org/"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="70" /></a>
+</p>
+
+<p align="center">
+<a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="70" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://redis.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="70" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://kafka.apache.org/"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="70" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://aws.amazon.com"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="70" /></a>
-<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="70" /></a>
-<a href="https://kubernetes.io/"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="70" /></a>
-<a href="https://www.jenkins.io/"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="70" /></a>
+</p>
+
+<p align="center">
+<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="70" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://kubernetes.io/"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="70" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.jenkins.io/"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="70" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.elastic.co/"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="70" /></a>
-<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="70" /></a>
-<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="80" /></a>
+</p>
+
+<p align="center">
+<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="70" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="80" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://soliditylang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" width="70" /></a>
 </p>
 
