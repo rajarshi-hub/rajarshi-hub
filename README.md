@@ -52,12 +52,6 @@ Strong foundation in <b>system design, microservices, and cloud deployments</b> 
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<!-- React -->
-<a href="https://reactjs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
 <!-- PostgreSQL -->
 <a href="https://www.postgresql.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="70" height="70"/>
