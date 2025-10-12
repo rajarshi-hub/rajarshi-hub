@@ -47,39 +47,6 @@ Backend Development · Microservices · Event-Driven Architecture · System Desi
 <a href="https://soliditylang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" width="70" /></a>
 </p>
 
-
-<h3 align="center">💼 Experience</h3>
-
-**Zepto, Bengaluru** | *Software Engineer* | Nov 2024 – Present  
-- Migrated fraud-limit enforcement to dedicated service with caching & optimized DB queries, reducing latency 45ms → 6ms.  
-- Built **Macros**, a Kafka framework handling 1M+ RPM for scalable event processing & rapid service onboarding.  
-- Engineered fraud-detection service using device fingerprinting, rate limiting & anomaly detection, preventing 50% ineligible refunds.  
-- Refactored rewards orchestration (gRPC, caching, Zookeeper), reducing P99 latency by 25% and inter-service load by 20%.
-
-**Josh Technology Group, Gurugram** | *Software Developer* | Jan 2023 – Nov 2024  
-- Migrated legacy stack → 40% performance improvement & simplified upgrades.  
-- Architected modular backends & optimized DB schemas for Notification Engine & Admin Dashboard → 20% memory reduction.  
-- Developed optimized APIs & Elasticsearch-powered mentor matching → 50% faster queries.  
-- Automated CI/CD pipelines using Jenkins, Docker, AWS → 33% faster release cycles with zero-downtime.
-
----
-
-<h3 align="center">🚀 Personal Projects</h3>
-
-**Crowd Fund** | Ethereum, Solidity, ReactJS  
-- Trustless crowdfunding DApp with gas-optimized smart contracts & permission-based majority approvals → 30% faster approval cycle.
-
-**Poker Planner** | Django, React, WebSocket  
-- Simultaneous JIRA ticket estimation with real-time bid sync → 30% latency reduction in concurrent submissions.
-
-**The Blog Data** | Node.js, MongoDB, React Redux  
-- Full-stack blog platform with auth & CRUD APIs for efficient state management.
-
----
-
-<h3 align="center">🎓 Education</h3>
-**Harcourt Butler Technical University, Kanpur** | B.Tech Electronics Engineering | 2019–2023 | CGPA: 7.8/10
-
 ---
 
 <h3 align="center">🏆 Achievements</h3>
